@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#section{
+    padding: 40px 15%;
+     height: 100%;
+     width: 100%;
+     display: grid;
+     grid-template-columns: repeat(1, 2fr);
+     align-items: center;
+     grid-gap: 6rem;
+     
+}
+
+.cont-img img{
+    max-width: 100%;
+    width: 720px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.form h1{
+    font-size: 80px;
+    color: rgb(0, 0, 26);
+    margin-bottom: 20px;
+}
+
+.form p{
+    color: black;
+    letter-spacing: 1px;
+    line-height: 26px;
+    font-size: 1.1rem;
+    margin-bottom: 3.8rem;
+}
