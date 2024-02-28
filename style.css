@@ -67,20 +67,17 @@ nav ul li a:hover{
     position: absolute;
     margin-top: 10%;
     margin-left: 7%;
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .text h1{
     font-size: 50px;
     font-weight: bold;
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     margin-bottom: 20px;
 }
 
 .text h2{
     font-size: 25px;
     font-weight: bold;
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .text p{
@@ -90,7 +87,6 @@ nav ul li a:hover{
 span{
     color: rgb(10, 10, 70);
     font-weight: bold;
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     cursor: pointer;
 }
 
@@ -108,7 +104,6 @@ span:hover{
     text-decoration: none;
     font-weight: bold;
     display: inline-block;
-    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     
 }
 
